@@ -26,6 +26,12 @@
 ## 4. 걸음 스트릭 및 내 정보​
 <img width="1970" height="1096" alt="image" src="https://github.com/user-attachments/assets/43209a13-faf4-4561-8660-0e616fa93555" />
 
-- 일별 걸음 수에 따라 활동량을 시각적으로 확인할 수 있습니다.<br?
+- 일별 걸음 수에 따라 활동량을 시각적으로 확인할 수 있습니다.<br>
 - 걸음 수가 많을수록 색상이 더 진해집니다.<br>
 - 각 날짜를 클릭하면 해당 일자의 상세 걸음 수를 확인할 수 있습니다.<br>
+
+## 5. 모바일 App 지원
+<img width="1572" height="884" alt="image" src="https://github.com/user-attachments/assets/670db9a8-a933-4f47-bd13-2ed7165b2155" />
+
+- Watch에서 함께한 기록을 Mobile App에서도 확인할 수 있습니다.
+- 블루투스로 연결된 Watch에 step mate app을 원격으로 설치할 수 있도록 지원합니다.
